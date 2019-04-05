@@ -1,4 +1,5 @@
 import threading
+
 lock = threading.Lock()
 item = 1
 my_list = []
